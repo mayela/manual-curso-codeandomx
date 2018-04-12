@@ -1,0 +1,1 @@
+# 3. ¿Cómo piensa un desarrollador?
