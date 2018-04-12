@@ -243,3 +243,4 @@ Hay tres tipos básicos de patrones de diseño:
 
 Los patrones de diseño son, en principio, soluciones bien pensadas para problemas de programación. Muchos programadores han encontrado estos problemas antes, y han usado estas 'soluciones' para remediarlos. Si encuentra estos problemas, ¿por qué volver a crear una solución cuando puede usar una respuesta ya probada?
 idioma
+
