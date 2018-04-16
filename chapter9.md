@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 9. Implementación de Javascript
 
 ## 9.1 ¿Qué es Javascript?
@@ -134,3 +135,6 @@ booleano.
 
 
 
+=======
+# 9. Implementación de Javascript
+>>>>>>> 4789fc3c81705587a26ef82634bbd57ca4b2602d
