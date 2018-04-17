@@ -11,6 +11,7 @@ _Framework_ de Javascript, open source, mantenida principalmente por el equipo d
  ### [Conceptos](https://docs.angularjs.org/guide/concepts)
 
 | Concepto |	Description |
+| ----- | ------ |
 | Plantilla (Template) | HTML with additional markup |
 | Directivas (Directives) | exitienden el HTML con atributos y elementos personalizados |
 | Modelo (Model) | 	datos mostrados a los usuarios en la vista |
@@ -25,6 +26,7 @@ _Framework_ de Javascript, open source, mantenida principalmente por el equipo d
 | Inyector (Injector) | El contenedor de la Dependencia de Inyección |
 | Modulo (Module) | Un contentedor para las diferentes partes de la app (controladores, filtros, servicios) |
 | (Service) | Lógica de negocios reutilizable e independiente de las vistas |
+
 
 Ejemplo de Enlace de datos
 ``` html
