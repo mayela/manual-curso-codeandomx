@@ -25,3 +25,45 @@
 * Auto Close Tag: Cierra un etiqueta HTML
 * HTML Snippets: pequeñas plantillas de código
 * JavaScript (ES6) code snippets: plantillas de código
+
+## Instalación
+
+1. Buscar en el navegador "vs code" y dar click al primer link
+<img src="./images/vs1.png"/>
+
+1. dar click en el botón de "descargar para Windows" (Mac o Linux)
+<img src="./images/vs2.png"/>
+
+1. Guardar el instalador
+<img src="./images/vs3.png"/>
+
+1. Ejecutar el instalador
+<img src="./images/vs4.png"/>
+
+1. En el Setup wizard dar next > next > next >... dejando los valores por _default_
+<img src="./images/vs5.png"/>
+
+<img src="./images/vs6.png"/>
+
+<img src="./images/vs7.png"/>
+
+<img src="./images/vs8.png"/>
+
+<img src="./images/vs9.png"/>
+
+
+1. Dar click en el botón "Instalar"
+
+<img src="./images/vs10.png"/>
+<img src="./images/vs11.png"/>
+
+1. Dar clicl en el botón "Terminar"
+<img src="./images/vs12.png"/>
+
+Debería abrirse el programa Visual Studio code
+
+<img src="./images/vs13.png"/>
+
+Para correr desde consola debes de teclar el comando "code"
+
+<img src="./images/vs14.png"/>
