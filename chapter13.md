@@ -34,7 +34,7 @@ Es derivado de otras áreas de la ingeniería que distan de la flexibilidad que 
 
 Varios equipos de desarrollo después de innumerables procesos de desarrollo difíciles, de cambios imprevistos, de comenzar programas o aplicaciones desde cero por la inhabilidad de mantenerse, fueron diseñando y adoptando otras formas de desarrollo:
 
-Aquí el [Manifiesto Ágil](http://agilemanifesto.org/principles.html)
+Aquí el Manifiesto Ágil [1]
 
 Involucra varios principios
 
@@ -59,7 +59,7 @@ A diferencia de antes impulsa acciones como:
   - Toma de desiciones horizontales y prácticas, no verticales y mal informadas
 - Atención en capacidad de mejora en cada aspecto
 
-### Programación Extrema _XP_ (_Extreme Programing_)
+### Programación Extrema _XP_ (_Extreme Programing_) [2]
 
 Es una estrategía, basada en el trabajo en equipo, que permite a lxs desarrolladorxs responder de manera efectiva a requerimientos del cliente. El objetivo es generar equipos auto-organizados al rededor de un problema y resolverlo de la manera más eficiente posible.
 
@@ -75,7 +75,7 @@ Mejora el proyecto en 5 aspectos:
 Se enfoca en hacer liberación de código funcional y probado (_tested_) lo más rápido y simple posible, todo código debe de ser programado entre 2 personas (_Pair Programming_), constantes juntas de equipo, rotación de personas en los equipos para compartición de conocimiento y evitar que el trabajo se vuelva monótono, mejorar la claridad código (_refactoring_) cada que sea posible.
 
 
-### SCRUM
+### SCRUM [3]
 
 Una de las metodologías de desarrollo ágil más utilizada. Propone:
 
@@ -120,8 +120,8 @@ Estas historias irán moviendose según su avance por distintas columnas
 `Por hacer (To do)-> En proceso (doing) -> Por revisar (to review) -> Realizado (done)`
 
 Algunas herramientas para llevar un buen control de proyecto son:
-  - [Trello](https://trello.com/tour)
-  - [Github Project](https://github.com/features/project-management/)
+  - Trello [4]
+  - Github Project [5]
 
 ## Desarrollo Guiado por Pruebas o _TDD_ (_Test Driven Develpment_)
 
@@ -161,3 +161,16 @@ Estrategia que permite el desarrollo de software con menos errores y evitando di
 - Compartición de experiencia y conocimiento
 - Menor distracción y divagación
 - Construcción de sentimiento de equipo
+
+---
+
+### Bibliografía
+
+- [1] Manifiesto Ágil - http://agilemanifesto.org/principles.html
+- [2] Extreme Programing - http://www.extremeprogramming.org
+- [3] Scrum - http://scrummethodology.com/
+- [4] Trello - https://trello.com/tour
+- [5] Github Projects - https://github.com/features/project-management/
+
+### Recursos
+- Scrum tutorial - https://www.scrumalliance.org/learn-about-scrum/the-scrum-guide

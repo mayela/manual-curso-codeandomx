@@ -337,7 +337,7 @@ var conNegativos = frutas.slice(-2) // Los últimos dos elementosEliminados
 
 ## 9.18 Parse
 
-El método JSON.parse() analiza una cadena de texto como JSON, transformando 
+El método JSON.parse() analiza una cadena de texto como JSON, transformando
 opcionalmente  el valor producido por el análisis.
 
 ```
@@ -352,7 +352,7 @@ JSON.parse('null');            // null
 
 ### For
 
-Un bucle for se repite hasta que la condición especificada se evalúa como 
+Un bucle for se repite hasta que la condición especificada se evalúa como
 false. El bucle for en JavaScript es similar al de Java y C.
 
 ```
@@ -369,7 +369,7 @@ function howMany(selectObject) {
 
 ### do...while
 
-La sentencia do...while se repite hasta que una condición especificada se 
+La sentencia do...while se repite hasta que una condición especificada se
 evalúa a false.
 
 ```
@@ -381,7 +381,7 @@ do {
 
 ### while
 
-Una sentencia while ejecuta sus sentencias mientras la condición sea evaluada 
+Una sentencia while ejecuta sus sentencias mientras la condición sea evaluada
 como verdadera.
 
 ```
@@ -395,7 +395,7 @@ while (n < 3) {
 
 ### for...in
 
-La sentencia for...in itera una variable especificada sobre todas las 
+La sentencia for...in itera una variable especificada sobre todas las
 propiedades enumerables de un objeto.
 
 ```
@@ -411,9 +411,9 @@ function volcar_propiedades(obj, obj_nombre) {
 
 ### for...of
 
-La sentencia for...of crea un bucle iterando sobre objetos iterables 
-(incluyendo Array, Map, Set, argumentos objetos etc), invocando una iteración 
-personalizada conectando con sentencias para ser ejecutadas por el valor de 
+La sentencia for...of crea un bucle iterando sobre objetos iterables
+(incluyendo Array, Map, Set, argumentos objetos etc), invocando una iteración
+personalizada conectando con sentencias para ser ejecutadas por el valor de
 cada propiedad distinta.
 
 ```
@@ -427,9 +427,9 @@ for (let i in arr) {
 
 ## 9.22 Objetcs
 
-El constructor Object crea un contenedor de objeto para el valor dado. 
-Si el valor es null o undefined, creará y devolverá un objeto vacío, de 
-cualquier otro modo, este retornará un objeto del tipo correspondiente al 
+El constructor Object crea un contenedor de objeto para el valor dado.
+Si el valor es null o undefined, creará y devolverá un objeto vacío, de
+cualquier otro modo, este retornará un objeto del tipo correspondiente al
 valor dado. Si el valor es un objeto, devolverá el valor.
 
 ```
@@ -438,15 +438,15 @@ var o = new Object()
 
 ## 9.23 this
 
-La función de la palabra clave this se comporta un poco diferente en Javascript 
-en comparación con otros lenguajes. Además tiene algunas diferencias entre el 
+La función de la palabra clave this se comporta un poco diferente en Javascript
+en comparación con otros lenguajes. Además tiene algunas diferencias entre el
 modo estricto y el modo no estricto.
 
-En general, el valor de this está determinado por cómo se llama a la función. 
-No puede ser establecida por una asignación en tiempo de ejecución, y esto 
+En general, el valor de this está determinado por cómo se llama a la función.
+No puede ser establecida por una asignación en tiempo de ejecución, y esto
 puede ser diferente cada vez que la función es llamada.
 
-En el contexto de ejecución global (fuera de cualquier función), this se 
+En el contexto de ejecución global (fuera de cualquier función), this se
 refiere al objeto global, ya sea en modo estricto o no.
 
 ```
@@ -463,8 +463,8 @@ function f1(){
 f1() === window; // objeto global
 ```
 
-En este caso, el valor de this no está establecido por la llamada. Dado que el 
-código no está en modo estricto, el valor de this debe ser siempre un objeto 
+En este caso, el valor de this no está establecido por la llamada. Dado que el
+código no está en modo estricto, el valor de this debe ser siempre un objeto
 por lo que por defecto es el objeto global.
 
 ```
@@ -478,9 +478,9 @@ f2() === undefined;
 
 ### 9.24 Closure
 
-Un closure es la combinación de una función y el ámbito léxico en el que se 
-declaró dicha función. Es decir los closures son funciones que manejan 
-variables independientes. En otras palabras, la función definida en el closure 
+Un closure es la combinación de una función y el ámbito léxico en el que se
+declaró dicha función. Es decir los closures son funciones que manejan
+variables independientes. En otras palabras, la función definida en el closure
 "recuerda" el ámbito en el que se ha creado.
 
 ```
@@ -494,20 +494,20 @@ function inicia() {
 inicia();
 ```
 
-La función inicia()  crea una variable local llamada nombre, a continuación, 
-define una función denominada muestraNombre(). muestraNombre() es una función 
-interna (un closure) definida dentro de inicia(), y sólo está disponible en el 
-cuerpo de esa función. muestraNombre() no tiene ninguna variable propia, lo que 
+La función inicia()  crea una variable local llamada nombre, a continuación,
+define una función denominada muestraNombre(). muestraNombre() es una función
+interna (un closure) definida dentro de inicia(), y sólo está disponible en el
+cuerpo de esa función. muestraNombre() no tiene ninguna variable propia, lo que
 hace es reutilizar la variable nombre declarada en la función externa.
 
 ## 9.25 Promises
 
-Una Promesa es un proxy para un valor no necesariamente conocido en el momento 
-que es creada la promesa. Permite asociar manejadores que actuarán 
-asincrónicamente sobre un eventual valor en caso de éxito, o la razón de falla 
-en caso de una falla. Esto permite que métodos asíncronos devuelvan valores 
-como si fueran síncronos: en vez de inmediatamente retornar el valor final, 
-el método asíncrono devuelve una promesa de suministrar el valor en algún 
+Una Promesa es un proxy para un valor no necesariamente conocido en el momento
+que es creada la promesa. Permite asociar manejadores que actuarán
+asincrónicamente sobre un eventual valor en caso de éxito, o la razón de falla
+en caso de una falla. Esto permite que métodos asíncronos devuelvan valores
+como si fueran síncronos: en vez de inmediatamente retornar el valor final,
+el método asíncrono devuelve una promesa de suministrar el valor en algún
 momento en el futuro.
 
 Una Promesa se encuentra en uno de los siguientes estados:
@@ -519,7 +519,7 @@ Una Promesa se encuentra en uno de los siguientes estados:
 ```
 let miPrimeraPromise = new Promise((resolve, reject) => {
   // Llamamos a resolve(...) cuando lo que estabamos haciendo finaliza con éxito, y reject(...) cuando falla.
-  // En este ejemplo, usamos setTimeout(...) para simular código asíncrono. 
+  // En este ejemplo, usamos setTimeout(...) para simular código asíncrono.
   // En la vida real, probablemente uses algo como XHR o una API HTML5.
   setTimeout(function(){
     resolve("¡Éxito!"); // ¡Todo salió bien!
@@ -529,7 +529,7 @@ let miPrimeraPromise = new Promise((resolve, reject) => {
 
 ## 9.26 Desktop notiffications
 
-La interfaz Notification de la Notifications API se usa para configurar y 
+La interfaz Notification de la Notifications API se usa para configurar y
 mostrar notificaciones de escritorio al usuario.
 
 ```
@@ -552,10 +552,10 @@ function spawnNotification(theBody,theIcon,theTitle) {
   4. Pido la coordenada y del punto b
   5. Calculo el tamaño de la componente horizontal (cateto 1)
   6. Calculo el tamaño de la componente vertical (cateto 2)
-  7. Elevo al cuadrado componentes vertical y horizontal 
+  7. Elevo al cuadrado componentes vertical y horizontal
   8. Las sumo
   9. Aplico la raíz cuadrada
-  10. Muestro la distancia 
+  10. Muestro la distancia
 
 ```
 var ax = prompt("Dame punto a coordenada x","");
@@ -574,18 +574,18 @@ alert(distancia);
 
 ## 9.28 Programación orientada a objetos
 
-La programación orientada a objetos es un paradigma de programación que utiliza 
-la abstracción para crear modelos basados ​​en el mundo real. Utiliza diversas 
-técnicas de paradigmas previamente establecidas, incluyendo la modularidad, 
+La programación orientada a objetos es un paradigma de programación que utiliza
+la abstracción para crear modelos basados ​​en el mundo real. Utiliza diversas
+técnicas de paradigmas previamente establecidas, incluyendo la modularidad,
 polimorfismo y encapsulamiento.
 
-La programación orientada a objetos puede considerarse como el diseño de 
-software a través de un conjunto de objetos que cooperan, a diferencia de un 
-punto de vista tradicional en el que un programa puede considerarse como un 
-conjunto de funciones, o simplemente como una lista de instrucciones para la 
-computadora. En la programación orientada a objetos, cada objeto es capaz de 
-recibir mensajes, procesar datos y enviar mensajes a otros objetos. Cada objeto 
-puede verse como una pequeña máquina independiente con un papel o 
+La programación orientada a objetos puede considerarse como el diseño de
+software a través de un conjunto de objetos que cooperan, a diferencia de un
+punto de vista tradicional en el que un programa puede considerarse como un
+conjunto de funciones, o simplemente como una lista de instrucciones para la
+computadora. En la programación orientada a objetos, cada objeto es capaz de
+recibir mensajes, procesar datos y enviar mensajes a otros objetos. Cada objeto
+puede verse como una pequeña máquina independiente con un papel o
 responsabilidad definida.
 
 ### Clase
@@ -651,16 +651,27 @@ function Estudiante(primerNombre, asignatura) {
 
 ### Encapsulamiento
 
-Una clase sólo define las características del Objeto, un método sólo define 
+Una clase sólo define las características del Objeto, un método sólo define
 cómo se ejecuta el Método.
 ### Abstracción
-La conjunción de herencia compleja, métodos y propiedades que un objeto debe 
+La conjunción de herencia compleja, métodos y propiedades que un objeto debe
 ser capaz de simular en un modelo de la realidad.
 
 ### Polimorfismo
 
-Diferentes clases podrían definir el mismo método o propiedad. 
+Diferentes clases podrían definir el mismo método o propiedad.
 
 ## 9.29 Estructuras de datos y algoritmos
 
 ## 9.30 Introducción a DOM y manipulación
+
+
+
+
+## Recursos
+
+- Javascript - https://www.javascript.com/
+- CodeSchool JS Tutorial  - https://www.codeschool.com/courses/javascript-road-trip-part-1?utm_source=javascript&utm_medium=referral&utm_campaign=js_com
+- W3 JS Tutorial - https://www.w3schools.com/Js/
+- Mozilla JS - https://developer.mozilla.org/es/docs/Web/JavaScript
+  - Modenrn Javascritp Tutorial - https://javascript.info/

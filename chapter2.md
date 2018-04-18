@@ -1,7 +1,7 @@
 # 2. ¿Cómo se organiza un programa?
 
 ## 2.1. Declaración/Líneas de código
-Un programa se va creando por medio de sentencias, las cuales, en su conjunto, 
+Un programa se va creando por medio de sentencias, las cuales, en su conjunto,
 representan los pasos a seguir para realizar una actividad(algoritmo).
 
 ## 2.2. Tipos de datos
@@ -63,41 +63,41 @@ mi_cadena = 'Hola'
 
 ## 2.5 Expresiones
 
-Una expresión es una combinación de constantes, variables o funciones, que es 
-interpretada de acuerdo a las normas particulares de precedencia y asociación 
+Una expresión es una combinación de constantes, variables o funciones, que es
+interpretada de acuerdo a las normas particulares de precedencia y asociación
 para un lenguaje de programación en particular.
 
 ## 2.6 Estructuras de control
 
-Las estructuras de control permiten modificar el flujo de ejecución de las 
+Las estructuras de control permiten modificar el flujo de ejecución de las
 instrucciones de un programa y son las siguientes:
 
-*. if... else
-*. switch
-*. while
-*. do... while
+- if... else
+- switch
+- while
+- do... while
 
 ## 2.7 Procedimientos y funciones
 
-Los procedimientos, también conocidos como rutinas, subrutinas o funciones son 
-una serie de pasos en busca de minimizar el código ya que por lo general son pasos que 
+Los procedimientos, también conocidos como rutinas, subrutinas o funciones son
+una serie de pasos en busca de minimizar el código ya que por lo general son pasos que
 deben repetirse varias veces.
 
 ## 2.8 Arrays y strings
 
 Los arrays o arreglos son una estructura de datos. Las cadenas son una secuencia
-de caracteres alfanuméricos por lo general se colocan dentro de un par de 
+de caracteres alfanuméricos por lo general se colocan dentro de un par de
 comillas dobles o simples.
 
-## 2.9 Records 
+## 2.9 Records
 
-Un record o registro es una colección de campos posiblemente de distinto tipo 
+Un record o registro es una colección de campos posiblemente de distinto tipo
 que típicamente son fijos y están en secuencia.
 
 # 2.10 Input/Output
 
-A veces requerimos de ciertos datos de entrada para ser manipulados y obtener 
-un resultado, a las partes iniciales y finales del flujo las llamamos entrada y 
+A veces requerimos de ciertos datos de entrada para ser manipulados y obtener
+un resultado, a las partes iniciales y finales del flujo las llamamos entrada y
 salida.
 
 ![](https://www.dwheeler.com/secure-programs/program.png)
@@ -106,8 +106,8 @@ _Ejemplo de entrada y salida de un programa_
 
 ## 2.11 Comentarios
 
-Los comentarios sirven a manera de documentación, es decir, de explicar que es 
-lo que nuestro código prentende hacer y como lo hace. En los lenguajes de 
+Los comentarios sirven a manera de documentación, es decir, de explicar que es
+lo que nuestro código prentende hacer y como lo hace. En los lenguajes de
 programación exiten distintas formas de escribir comentarios pero las más
 comúnes son:
 
@@ -125,7 +125,7 @@ ejemplo:
 ```
 #include <stdio.h>
 int main(void)
-{ 
+{
     char x = 'm';
     printf("%c\n", x);
     {
@@ -143,5 +143,3 @@ m
 b
 m
 ```
-
-
