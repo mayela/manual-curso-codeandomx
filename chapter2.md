@@ -1,5 +1,8 @@
 # 2. ¿Cómo se organiza un programa?
 
+Por lo general un programa se organiza de forma modular, haciendo que un bloque
+de código solucione un problema y lo haga bien. Esto permite al código evolucionar y escalar de mejormanera.
+
 ## 2.1. Declaración/Líneas de código
 Un programa se va creando por medio de sentencias, las cuales, en su conjunto,
 representan los pasos a seguir para realizar una actividad(algoritmo).

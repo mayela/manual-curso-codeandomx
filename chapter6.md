@@ -1,4 +1,6 @@
 # 6. Introducción a developer tools y setup del entorno de desarrollo
+Un buen conjunto de herramientas hace que tu proceso de desarrollo sea más fluido.
+Escoge las herramients que se ajusten a tus necesidades y usalas a tu favor.
 
 ## 6.1 Visual Studio Code
 

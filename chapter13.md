@@ -1,5 +1,10 @@
 # Metodologías de desarrollo ágil
 
+Dado los malos resultados de la aplicación de prácticas de manejo de proyectos
+como si fueran construcciones civiles en los 90's un grupo de personas decidió
+proponer una mejor forma para llevar nuestros proyectos a su correcta ejecuión.
+Estás son las prácticas ágiles.
+
 ## Modelo Cascada (No ágil)
 
 La mayoría de los proyectos trabaja con un enfoque parecido a lo que se le conoce como modelo de cascada (_Waterfall model_), en donde se tiene un diseño fijo que se le pasa a los desarrolladores y quienes tienen que atenerse a una única dirección de desarrollo y que es poco flexible. Sigue estos pasos:
@@ -165,12 +170,3 @@ Estrategia que permite el desarrollo de software con menos errores y evitando di
 ---
 
 ### Bibliografía
-
-- [1] Manifiesto Ágil - http://agilemanifesto.org/principles.html
-- [2] Extreme Programing - http://www.extremeprogramming.org
-- [3] Scrum - http://scrummethodology.com/
-- [4] Trello - https://trello.com/tour
-- [5] Github Projects - https://github.com/features/project-management/
-
-### Recursos
-- Scrum tutorial - https://www.scrumalliance.org/learn-about-scrum/the-scrum-guide

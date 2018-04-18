@@ -1,5 +1,9 @@
 # 3. ¿Cómo piensa un desarrollador?
 
+El desarrollador desarrolla una forma de pensar en la que divide los procesos de
+manera que peuda conseguir la solución más óptima y escalable a larga plazo.
+
+
 ## 3.1 ¿Ciencias de la computación o programación?
 
 Las ciencias de la computación, son una rama de la matematica, abarcan el
@@ -18,11 +22,25 @@ tomar las soluciones desde varios ángulos posibles de solución.
 
 ## 3.3 Leer-Buscar-Preguntar
 
-Hola!
-me ves?
-yep :-
-wii
-entonces hay que trabajar jeje
-veo que los issues están al aire, osea no especifica capitulo ni nada tons lo voy a complementar con mis anotaciones, va? y con lo que recuerdes tambien :P
-lo vi... ahí mismo en el issue o dónde?
-si, ahi mismo para que este como al como un issues.. ok
+### Read
+
+Empezar leyendo la documentaación es un buen lugar para empezar cuando no
+conoces como hacer algo. Puedes descubrir una solución solo navegando por la
+documentación.
+
+Si tienes un error, entonces dedica el tiempo suficiente para leerlo y si no
+tienes errores pero estás tratandode entender algo entonces usa el debugger.
+
+### Buscar
+
+Google puede ser tu mejor amigo, si es que no ya lo es pero a veces tu no
+consigues la respuesta adecuada así que trata de ser conciso y buscar también en
+Stack Overflow
+
+### Preguntar
+
+A veces cuando no funciona el leer y buscar tenemos que recurrir al contacto
+humano. Ir a reuniones de tecnología, preguntarle a amigos o en Slack o
+Facebook. Cuando lo hagas trata de estructurar tu pregunta, entiende tu problema
+y explica que es lo que estás pensando obtener de tu código, incluye partes del
+mismo.
