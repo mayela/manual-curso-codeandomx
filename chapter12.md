@@ -2,6 +2,8 @@
 
 _Framework_ de Javascript, open source, mantenida principalmente por el equipo de Google, y enfocada en realizar lo que llaman aplicaciones-de-una-sola-página (̣_single-page applications_), que son aquellas que pretenden simular las aplicaciones nativas de escritorio. Funcionan modificando dinámicamente el contenido de una única página, con una constante comunicación con el servidor para una mejor experiencia de usuario.
 
+![](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Ftheblogreaders.com%2Fwp-content%2Fuploads%2F2015%2F12%2Fangular-js.png&f=1)
+
  Utiliza una metodología de **MVC**: Modelo-Vista-Controlador (__Model-View-Controller__), a difencia las estrategias de desarrollo de Aplicaciones Web, en donde los los controladores, los modelos y el rendereo de las vistas se realizaba en el servidor, Angular lo hace del lado del cliente, de manera que las interacciones con el servidor se reducen a la lógica de negocios (_bussiness logic_). Los datos de los modelos están enlazados (_Data-binding_) a las vistas de manera automática, haciendo automática el refresqueo de los elementos de HTML. Los controladores manejan los eventos que el usuario y/o el servidor realizan por medio de funciones de Javascript.
 
  Además permite relativamente fácil el desarrollo de componentes reutilizables y compartibles, generando así una comunidad que comparte platillas y herramientas que aceleran el desarrollo de aplicaciones a una velocidad antes no imaginada.
@@ -73,4 +75,3 @@ angular.module('invoice1', [])
 });
 
 ```
-

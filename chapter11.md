@@ -27,6 +27,8 @@ Es un estilo de arquitectura para servicios APIs basado en restricciones que per
 
 ## [NodeJS](nodejs.org)
 
+![](https://images.duckduckgo.com/iu/?u=https%3A%2F%2Fdab1nmslvvntp.cloudfront.net%2Fwp-content%2Fuploads%2F2015%2F07%2F1436439824nodejs-logo.png&f=1)
+
 JavaScript para servidor. Dada la popularidad que obtuvo Javascript como lengauge oficial del desarrollo web, se creo este lenguaje, con la misma sintaxis, pero que corre en el servidor y que tiene la capacidade de accesar a bases de datos, archivos y consumir recursos del servidor.
 
 Se puede descargar [aquí](https://nodejs.org/es/download/)
@@ -154,4 +156,3 @@ Features
 
 - Install `$ npm i -g nodemon`
 - Use
-

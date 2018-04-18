@@ -32,6 +32,8 @@ Cerca del año 2008 los sitios de internet, que antes habían sido pensados y di
 
 ## Bootstrap
 
+![](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fmedia02.hongkiat.com%2Ftwitter-bootstrap%2Ftwitter-bootstrap.jpg&f=1)
+
 _Framework_ (Conjunto de herramientas) desarrollado por el equipo de Twitter para el desarrollo ágil y responsivo de páginas Web. Es _opensource_ (código abierto) por lo que puede ser copiado y modificado a voluntad. De hecho, Es el [repocitorio](https://github.com/twbs/bootstrap) más popular en GitHub.
 
 Puedes descargarlo aquí (https://github.com/twbs/bootstrap)
@@ -243,4 +245,3 @@ Hay tres tipos básicos de patrones de diseño:
 
 Los patrones de diseño son, en principio, soluciones bien pensadas para problemas de programación. Muchos programadores han encontrado estos problemas antes, y han usado estas 'soluciones' para remediarlos. Si encuentra estos problemas, ¿por qué volver a crear una solución cuando puede usar una respuesta ya probada?
 idioma
-
