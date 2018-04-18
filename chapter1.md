@@ -191,7 +191,3 @@ Existen distintos caminos que dependen de la personalidad y situación de vida d
 - Hay quienes, enamorados de los videojuegos y de sus entramados laberintos, desarrollaron una capacidad de resolver problemas complejos, que cuando se encontraron con líneas de código, descubrieron que ya hacían `if.. else..` y `for` en sus mentes y con botones, teclas, palancas y mouses.
 - Hay quienes deciden ir a la universidad y salir certificados después de `n` años
 - Hay quienes sabiendo diseño gráfico, quisieron plasmar sus ideas en varias pantallas y empezaron por html y css, para brincar después a js.
-
-# Bibliografía
-
-· [Estructuras de datos](https://users.dcc.uchile.cl/~bebustos/apuntes/cc30a/Estructuras/)
