@@ -181,6 +181,13 @@ _altamente mantenible_ cuando el esfuerzo asociado a la restitución sea bajo.
 
 ### v.iii Hacer la programación fácil para ti y fácil para los demás
 
+- Trata siempre de mantener buenas prácticas de código, recuerda que aunque quien
+ejecuta el código esla máquina quien lo crea, lo mantiene y lo modifica es una
+persona igual que tú.
+- Mantene nombres descriptivos para tus variables, métodos, funciones, clases, etc.
+- Documenta la lógica de tu programa, si es en un documento a parte mejor.
+- Usa siempre el sistema de control de versiones, es tu mejor amigo.
+- Trata siempre de mantener la posición de aprendiz, recuerda que nadie sabe todo.
 
 
 ## vi. ¿Cómo se convierte unx en programador(a)?
