@@ -10,3 +10,7 @@
 
 ### Recursos
 - Scrum tutorial - https://www.scrumalliance.org/learn-about-scrum/the-scrum-guide
+- Algoritmos(tarea moral) 
+    - http://www.academia.edu/4562755/Algoritmos_50_Ejemplos
+    - https://es.slideshare.net/angelfg/ejemplos-de-algoritmos
+    - http://www.uaa.mx/direcciones/dgdv/editorial/docs/algoritmos.pdf
