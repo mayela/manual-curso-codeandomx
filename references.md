@@ -14,3 +14,12 @@
     - http://www.academia.edu/4562755/Algoritmos_50_Ejemplos
     - https://es.slideshare.net/angelfg/ejemplos-de-algoritmos
     - http://www.uaa.mx/direcciones/dgdv/editorial/docs/algoritmos.pdf
+- [Laboratoria curricula js](https://github.com/Laboratoria/curricula-js)
+- Hacer ejercicios para mejorar la lógica(lenguaje de programación requerido)
+    - [Hackerrack](www.hackerrank.com)
+    - [Codefights](codefights.com)
+- [Aprender lógica de la programación jugando](https://studio.code.org/courses)
+- [Aprender Git jugando](http://learngitbranching.js.org/)
+- Aprender a programar desde cero
+    - [Codecademy](www.codecademy.com/es)
+    - [FreeCodeCamp](www.freecodecamp.org)
