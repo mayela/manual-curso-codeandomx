@@ -1,6 +1,6 @@
 # FRONT-END WEB
 
-## [Diseño Responsivo (Adaptable)](https://es.wikipedia.org/wiki/Dise%C3%B1o_web_adaptable)
+## Diseño Responsivo (Adaptable) [1]
 
 Acercamiento al diseño web en donde el contendio se desarrolla pensando que se pueda acoplar de diferentes maneras según el dispositivo ( tabletas, teléfonos inteligentes / smartphones, libros electrónicos, laptops, computadoras de escritorio, etc) en que se está mostrando la página o aplicación Web.
 
@@ -15,7 +15,7 @@ Cerca del año 2008 los sitios de internet, que antes habían sido pensados y di
 > One Web, Web for All, Web on Everything
 
 - Cambiar el diseño pensado en tamaños fijos (pixeles - px) a proporciones
-- Instaurar una propuesta desde 1995: [Media Queries](https://developer.mozilla.org/es/docs/CSS/Media_queries)
+- Instaurar una propuesta desde 1995: Media Queries [2]
 
   - Permite adaptar la representación del contenido a características del dispositivo como la resolución de pantalla
   - Ejemplo: Cambiar el color de fondo a azul claro para las pantallas que midan 600 px o menos
@@ -32,7 +32,9 @@ Cerca del año 2008 los sitios de internet, que antes habían sido pensados y di
 
 ## Bootstrap
 
-_Framework_ (Conjunto de herramientas) desarrollado por el equipo de Twitter para el desarrollo ágil y responsivo de páginas Web. Es _opensource_ (código abierto) por lo que puede ser copiado y modificado a voluntad. De hecho, Es el [repocitorio](https://github.com/twbs/bootstrap) más popular en GitHub.
+![](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fmedia02.hongkiat.com%2Ftwitter-bootstrap%2Ftwitter-bootstrap.jpg&f=1)
+
+_Framework_ (Conjunto de herramientas) desarrollado por el equipo de Twitter para el desarrollo ágil y responsivo de páginas Web. Es _opensource_ (código abierto) por lo que puede ser copiado y modificado a voluntad. De hecho, Es el repocitorio [3] más popular en GitHub.
 
 Puedes descargarlo aquí (https://github.com/twbs/bootstrap)
 
@@ -192,11 +194,18 @@ Exitienden el funcionamiento de CSS utilizando variables, operadores, funciones,
 
 Este código se procesa para producir un CSS resultante, pero permite mantenerlo de manera sencilla.
 
-Los más conocidos son [SASS](https://sass-lang.com/), [LESS](http://lesscss.org/) y [Stylus](http://stylus-lang.com/)
+Los más conocidos son
+- SASS [4]
+- LESS [5]
+- Stylus [6]
 
 **Variables**
 
+Es posible definir variables, que a lo largo del estilo son utilizadas varias veces. Permite modificar desde un único punto de edición, varios estilos.
+
 **Anidado**
+
+Una manera un poco más clara de definir estilos para los hijos de padres.
 
 ``` sass
 ul {
@@ -224,7 +233,7 @@ ul {
 
 **Operadores lógicos** if... else...
 
-**Ciclos** for... i to n
+**Ciclos**  `for... i to n`
 
 **Operadores matemáticos** suma, resta, multiplicación, división, redondeo, min, max
 
@@ -234,12 +243,20 @@ Los patrones de diseño son soluciones optimizadas y reutilizables para los prob
 
 Hay tres tipos básicos de patrones de diseño:
 
-    - Estructural
-      - Los patrones estructurales generalmente se ocupan de las relaciones entre entidades, lo que facilita que estas entidades trabajen juntas.
-    - Creacional
-      - Los patrones de creación proporcionan mecanismos de instanciación, lo que facilita la creación de objetos de una manera que se adapte a la situación.
-    - De Comportamiento
-      - Los patrones de comportamiento se utilizan en las comunicaciones entre las entidades y hacen que sea más fácil y más flexible que estas entidades se comuniquen.
+- Estructural
+  - Los patrones estructurales generalmente se ocupan de las relaciones entre entidades, lo que facilita que estas entidades trabajen juntas.
+- Creacional
+  - Los patrones de creación proporcionan mecanismos de instanciación, lo que facilita la creación de objetos de una manera que se adapte a la situación.
+- De Comportamiento
+  - Los patrones de comportamiento se utilizan en las comunicaciones entre las entidades y hacen que sea más fácil y más flexible que estas entidades se comuniquen.
 
 Los patrones de diseño son, en principio, soluciones bien pensadas para problemas de programación. Muchos programadores han encontrado estos problemas antes, y han usado estas 'soluciones' para remediarlos. Si encuentra estos problemas, ¿por qué volver a crear una solución cuando puede usar una respuesta ya probada?
-idioma
+
+### Bibliografía
+
+- [1] Diseño Responsivo Wikipedia - https://es.wikipedia.org/wiki/Dise%C3%B1o_web_adaptable
+- [2] Media Queries Mozilla - (https://developer.mozilla.org/es/docs/CSS/Media_queries)
+- [3] Repositorio de Bootstrap - https://github.com/twbs/bootstrap
+- [4] Saas - https://sass-lang.com/
+- [5] Less - http://lesscss.org/
+- [6] Stylus - http://stylus-lang.com/
