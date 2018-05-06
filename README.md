@@ -1,5 +1,7 @@
 # Introducción al desarrollo web
 
+[![Join the chat at https://gitter.im/BootcampCodeandoMX/Lobby](https://badges.gitter.im/BootcampCodeandoMX/Lobby.svg)](https://gitter.im/BootcampCodeandoMX/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 1. Acerca de la programación
    1. ¿Qué es un programa?
    2. Lenguajes de programación
