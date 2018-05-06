@@ -24,3 +24,5 @@
     - [Codecademy](www.codecademy.com/es)
     - [FreeCodeCamp](www.freecodecamp.org)
 - [Aprendiz de Software](http://the-software-apprentice.makingdevs.com)
+- Blogs de programación
+    - [The pracrtical dev](https://dev.to/)
