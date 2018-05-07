@@ -12,6 +12,8 @@ aplicación en sistemas computacionales. La programación es una rama de las
 ciencias de la computación y se encarga solo de la parte de pasar un algoritmo
 a código en un lenguaje de programación.
 
+![](./images/computer-science.png)
+
 ## 3.2 No aprendas a desarrollar, aprende a pensar.
 
 Tener cierta familiaridad con la programación (dominio de lenguaje de
