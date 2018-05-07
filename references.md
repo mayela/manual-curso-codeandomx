@@ -16,7 +16,7 @@
     - http://www.uaa.mx/direcciones/dgdv/editorial/docs/algoritmos.pdf
 - [Laboratoria curricula js](https://github.com/Laboratoria/curricula-js)
 - Hacer ejercicios para mejorar la lógica(lenguaje de programación requerido)
-    - [Hackerrack](www.hackerrank.com)
+    - [Hackerrack](https://www.hackerrank.com)
     - [Codefights](codefights.com)
 - [Aprender lógica de la programación jugando](https://studio.code.org/courses)
 - [Aprender Git jugando](http://learngitbranching.js.org/)
