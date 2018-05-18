@@ -26,3 +26,5 @@
 - [Aprendiz de Software](http://the-software-apprentice.makingdevs.com)
 - Blogs de programación
     - [The pracrtical dev](https://dev.to/)
+- Libros gratuitos en español
+    - https://es.linkedin.com/pulse/libros-de-programaci%C3%B3n-en-espa%C3%B1ol-gratuitos-adolfo-luzardo-cabrera
