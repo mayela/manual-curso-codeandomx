@@ -28,3 +28,7 @@
     - [The pracrtical dev](https://dev.to/)
 - Libros gratuitos en español
     - https://es.linkedin.com/pulse/libros-de-programaci%C3%B3n-en-espa%C3%B1ol-gratuitos-adolfo-luzardo-cabrera
+
+- https://www.eventbrite.ts/e/entradas-2-horas-para-crear-una-landing-page-con-html-css-bootstrap-46075088831
+- https://twitter.com/tecmint/status/997882662709813249
+
