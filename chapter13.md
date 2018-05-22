@@ -35,6 +35,8 @@ Es derivado de otras áreas de la ingeniería que distan de la flexibilidad que 
 - Se toman decisiones sin considerar ni comunicarse con los agentes involucrados
   - Desiciones fuera de juntas
 
+![](https://modelometodoygestion.files.wordpress.com/2017/02/chaos-report-15-5.jpg)
+
 ## Metodologías Ágiles
 
 Varios equipos de desarrollo después de innumerables procesos de desarrollo difíciles, de cambios imprevistos, de comenzar programas o aplicaciones desde cero por la inhabilidad de mantenerse, fueron diseñando y adoptando otras formas de desarrollo:

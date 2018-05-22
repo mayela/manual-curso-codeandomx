@@ -28,3 +28,10 @@
     - [The pracrtical dev](https://dev.to/)
 - Libros gratuitos en español
     - https://es.linkedin.com/pulse/libros-de-programaci%C3%B3n-en-espa%C3%B1ol-gratuitos-adolfo-luzardo-cabrera
+- [JS the rigth way](http://jstherightway.org)
+- [Learn anything](https://learn-anything.xyz/)
+- [Typescript handbook](https://www.typescriptlang.org/docs/handbook/basic-types.html)
+- [Bash handbook](https://github.com/denysdovhan/bash-handbook)
+- [Frontend Handbook 2018](https://github.com/FrontendMasters/front-end-handbook-2018)
+- [Javascript koans](https://github.com/mrdavidlaing/javascript-koans)
+- [El reporte del caos](https://modelometodoygestion.wordpress.com/2017/02/21/chaos-report-15-scrum/)
