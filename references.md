@@ -28,7 +28,6 @@
     - [The pracrtical dev](https://dev.to/)
 - Libros gratuitos en español
     - https://es.linkedin.com/pulse/libros-de-programaci%C3%B3n-en-espa%C3%B1ol-gratuitos-adolfo-luzardo-cabrera
-<<<<<<< HEAD
 - [JS the rigth way](http://jstherightway.org)
 - [Learn anything](https://learn-anything.xyz/)
 - [Typescript handbook](https://www.typescriptlang.org/docs/handbook/basic-types.html)
@@ -39,4 +38,4 @@
 - http://www.sw-computacion.f2s.com/Linux/001-Introduccion_al_software_libre.pdf
 - https://www.researchgate.net/publication/276920698_Administracion_de_Sistemas_GNULinux_4ed_2014
 - http://librosweb.es/libro/python/capitulo_1/introduccion_al_sistema_operativo_gnu_linux.html
-
+- [Algoritmos y estructuras de datos en Javascript](https://www.youtube.com/watch?v=dgZhiYpcbME&list=PLeWI3XlFEVOXMwSCkvJinRVEnLksnBOPr)
