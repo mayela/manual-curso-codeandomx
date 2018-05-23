@@ -41,6 +41,10 @@ Es derivado de otras áreas de la ingeniería que distan de la flexibilidad que 
 
 Varios equipos de desarrollo después de innumerables procesos de desarrollo difíciles, de cambios imprevistos, de comenzar programas o aplicaciones desde cero por la inhabilidad de mantenerse, fueron diseñando y adoptando otras formas de desarrollo:
 
+[Marco Cynefin para distinguir los dominios de los sistemas](http://www.martinalaimo.com/es/blog/cynefin)
+
+![](https://upload.wikimedia.org/wikipedia/commons/f/f7/Cynefin_framework_by_Edwin_Stoop.jpg)
+
 Aquí el Manifiesto Ágil [1]
 
 Involucra varios principios
