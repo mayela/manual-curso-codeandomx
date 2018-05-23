@@ -39,3 +39,4 @@
 - https://www.researchgate.net/publication/276920698_Administracion_de_Sistemas_GNULinux_4ed_2014
 - http://librosweb.es/libro/python/capitulo_1/introduccion_al_sistema_operativo_gnu_linux.html
 - [Algoritmos y estructuras de datos en Javascript](https://www.youtube.com/watch?v=dgZhiYpcbME&list=PLeWI3XlFEVOXMwSCkvJinRVEnLksnBOPr)
+- [Tutorialspoint - Tutoriales de diversas tecnologías](www.tutorialspoint.com)
