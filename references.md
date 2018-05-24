@@ -40,3 +40,7 @@
 - http://librosweb.es/libro/python/capitulo_1/introduccion_al_sistema_operativo_gnu_linux.html
 - [Algoritmos y estructuras de datos en Javascript](https://www.youtube.com/watch?v=dgZhiYpcbME&list=PLeWI3XlFEVOXMwSCkvJinRVEnLksnBOPr)
 - [Tutorialspoint - Tutoriales de diversas tecnologías](www.tutorialspoint.com)
+- Metodologías ágiles
+  - [Historias de usuario](http://www.lecciones-aprendidas.info/2013/11/como-es-una-historia-de-usuario-un.html)
+  - [Características de una buena historia de usuario](http://www.lecciones-aprendidas.info/2013/07/caracteristicas-de-una-buena-historia.html)
+  - [Contratos ágiles](https://es.slideshare.net/jorgeabad1/un-resumen-sobre-contratos-giles-por-jorge-abad-y-leonardo-agudelo-agile-contracts)

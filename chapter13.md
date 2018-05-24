@@ -126,6 +126,39 @@ Propone el uso de Historias de Usuario, en vez de Casos de uso, que consisten en
 - **Objetivo**: Qué espera lograr
 - **Motivación**: Más emocional que funcional ¿Cómo me va a hacer sentir?
 
+Las historias de usuario tienen dentro de sus objetivos:
+
+    sincronizar las espectativas del PO (Product Owner) con el Equipo respecto a una funcionalidad
+    servir como elemento que dirigirá construcción del software
+
+A continuación quiero compartir un ejemplo de como luce (o se vé) una historia de usuario:
+
+
+**SOLICITUD DE INFORMACIÓN LABORAL DEL CLIENTE**
+
+Yo como  CLIENTE DEL BANCO
+Deseo INGRESAR MI INFORMACIÓN LABORAL ACTUAL
+Para QUE EL BANCO DETERMINE SI ME PUEDE PRESTAR O NO
+
+**Criterios de aceptación**
+
+- Que pida los datos de la empresa
+- Que pida el RFC del Usuario
+- Que pida el salario actual
+- Que pida fecha de ingreso
+
+### Características de una buena historia de usuario
+
+Luego de hacer la CCC (Card, Confirmation, Conversation), definitivamente el criterio más importante que uso es cumplir INVEST:
+
+- **Independiente**: No requiere de otra
+- **Negociable**: Se puede reemplazar por otra de diferentes prioridad
+- **Valor**: Que sea necesaria y de valor para el proyecto
+- **Estimable**: Que el equipo se sienta tranquilo y seguro estimandola
+- **Small (pequeñas)**: que no sean grande, funcionalidades pequeñas
+- **Testeable (verificable**): que se le puedan realizar pruebas
+
+
 Estas historias irán moviendose según su avance por distintas columnas
 
 `Por hacer (To do)-> En proceso (doing) -> Por revisar (to review) -> Realizado (done)`
