@@ -44,3 +44,7 @@
   - [Historias de usuario](http://www.lecciones-aprendidas.info/2013/11/como-es-una-historia-de-usuario-un.html)
   - [Características de una buena historia de usuario](http://www.lecciones-aprendidas.info/2013/07/caracteristicas-de-una-buena-historia.html)
   - [Contratos ágiles](https://es.slideshare.net/jorgeabad1/un-resumen-sobre-contratos-giles-por-jorge-abad-y-leonardo-agudelo-agile-contracts)
+  - Definición del MVP
+    - https://medium.com/hackerlife/how-to-define-your-minimum-viable-product-dc7e118baec1
+    - https://blog.cayenneapps.com/2014/11/25/5-steps-to-building-minimum-viable-product-with-story-mapping/
+- [Obtener cambios del repo original de un fork](https://help.github.com/articles/configuring-a-remote-for-a-fork/)
