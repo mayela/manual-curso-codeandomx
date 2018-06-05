@@ -48,3 +48,4 @@
     - https://medium.com/hackerlife/how-to-define-your-minimum-viable-product-dc7e118baec1
     - https://blog.cayenneapps.com/2014/11/25/5-steps-to-building-minimum-viable-product-with-story-mapping/
 - [Obtener cambios del repo original de un fork](https://help.github.com/articles/configuring-a-remote-for-a-fork/)
+- [User story mapping](https://www.beeva.com/beeva-view/metodologiasagiles/user-story-mapping-el-produc-backlog-de-un-vistazo/)
