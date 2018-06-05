@@ -20,6 +20,7 @@
     - [Codefights](codefights.com)
 - [Aprender lógica de la programación jugando](https://studio.code.org/courses)
 - [Aprender Git jugando](http://learngitbranching.js.org/)
+- [Libro Git](https://git-scm.com/book/es/v2)
 - Aprender a programar desde cero
     - [Codecademy](www.codecademy.com/es)
     - [FreeCodeCamp](www.freecodecamp.org)
